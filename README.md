@@ -1,3 +1,28 @@
+# Introduction
+
+Welcome to ChatAssist, the next generation in customer support solutions! ChatAssist is an advanced AI-powered platform designed to enhance your customer service experience. Our intelligent virtual assistant is capable of handling a wide range of customer inquiries, from product information and order tracking to troubleshooting and account management. ChatAssist operates 24/7, ensuring your customers receive prompt and accurate assistance whenever they need it. By integrating seamlessly with your existing systems, ChatAssist helps reduce response times, improve customer satisfaction, and streamline support operations. Elevate your customer service with ChatAssist, where cutting-edge AI technology meets unparalleled support efficiency.
+
+# Features
+
+Level 1: Create a basic chatbot with hard coded responses
+
+Level 2: Respond to the user intelligently using any Gen-AI model
+
+Level 3: Deploy your web-app to AWS EC2 Servers
+
+Level 3.5: Respond to the user with LLMs through the AWS Bedrock API
+
+Level 4: Implement RAG so the chatbot responds based on a given knowledge base
+
+Level 4.5: Create an LLM orchestration pattern with a router and task specific models
+
+Bonus: Add multi-language support to cater to a diverse customer base
+
+Bonus: Add user authentication to personalize the chat experience
+
+Bonus: Implement a feedback mechanism for users to rate the chatbot's responses
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
