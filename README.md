@@ -2,6 +2,8 @@
 
 Welcome to ChatAssist, the next generation in customer support solutions! ChatAssist is an advanced AI-powered platform designed to enhance your customer service experience. Our intelligent virtual assistant is capable of handling a wide range of customer inquiries, from product information and order tracking to troubleshooting and account management. ChatAssist operates 24/7, ensuring your customers receive prompt and accurate assistance whenever they need it. By integrating seamlessly with your existing systems, ChatAssist helps reduce response times, improve customer satisfaction, and streamline support operations. Elevate your customer service with ChatAssist, where cutting-edge AI technology meets unparalleled support efficiency.
 
+## Demo: https://youtu.be/KwxsvtCpqoo
+
 # Features
 
 Level 1: Create a basic chatbot with hard coded responses
